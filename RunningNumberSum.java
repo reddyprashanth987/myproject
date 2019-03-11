@@ -1,3 +1,5 @@
+//this is the program for running number sum
+
 public class RunningNumberSum{
 	public static void main(String[] args){
 		int lowerbound =1;
