@@ -1,6 +1,7 @@
 //this is the program for running number sum
 //this is the line added from the second test user
 //really adding second user now
+//editing done by second user
 
 
 public class RunningNumberSum{
@@ -17,5 +18,7 @@ public class RunningNumberSum{
 	}
 	
 	System.out.println("The sum from " + lowerbound + " to " +upperbound + " is  '" +sum + "'");
+        System.out.println("The sum from " + lowerbound + " to " +upperbound + " is  '" +sum + "' from second user");
+
 	}
 }
